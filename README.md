@@ -10,3 +10,8 @@ Logistic Regression is a linear model that is commonly used for binary classific
 Support Vector Machines (SVM) is a popular algorithm for both binary and multi-class classification problems. It works by finding a hyperplane in a high-dimensional space that separates the samples of different classes with the largest margin. The samples closest to the hyperplane are called support vectors, and they determine the position and orientation of the hyperplane. SVM can be extended to handle non-linear classification problems by using kernel functions to map the samples to a higher-dimensional space where they can be linearly separated.
 
 Each of these algorithms has its own strengths and weaknesses, and their performance can vary depending on the characteristics of the data and the problem at hand. Choosing the most appropriate algorithm for a particular task often requires experimentation and evaluation on a representative dataset.
+
+
+In this repository, I have tried to predict the types of lung cancer by using these three machine learning techniques and also checked their accuracy. The comparison of their accuracies are also included in the notebook.
+
+Thank You
